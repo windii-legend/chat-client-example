@@ -1,0 +1,8 @@
+{
+  "appId":"",
+  "key":"",
+  "secret":"",
+  "cluster":"",
+  "encrypted":true,
+  "restServer":"http://localhost:4000",
+}
